@@ -1,0 +1,6 @@
+<additional>
+	<edgeData id="edges_emissions_data_agg" type="emissions" file="edges_emissions_data.xml" excludeEmpty="true"/>
+	<edgeData id="edges_traffic_measures_data_agg" file="edges_traffic_data.xml" excludeEmpty="true"/>
+	<edgeData id="edges_emissions_data_diesel_e4" type="emissions" file="edges_emissions_data_diesel_e4.xml" excludeEmpty="true" vTypes="diesel_e4"/>
+	<edgeData id="edges_traffic_measures_data_diesel_e4" file="edges_traffic_data_diesel_e4.xml" excludeEmpty="true" vTypes="diesel_e4"/>
+</additional>
